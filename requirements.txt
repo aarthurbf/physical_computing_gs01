@@ -1,0 +1,9 @@
+# Python 3.13 
+
+# Visão Computacional
+opencv-python==4.10.0.84   # Captura de vídeo, HUD e desenho sobre frames
+mediapipe==0.10.21         # Face Landmarker: detecção de landmarks faciais e cálculo EAR
+
+# Comunicação Hardware
+pyserial==3.5              # Interface serial com Arduino (USB/UART)
+
