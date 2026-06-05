@@ -127,6 +127,12 @@ NOMINAL ──(EAR < 0.25 por 15 frames)──► FATIGUE CRITICAL
 
 ---
 
+## 🎬 Vídeo Demonstrativo
+
+> 🔗 [https://youtu.be/DzuTxcLAFEU]
+
+---
+
 ## 🔬 Pipeline de Visão Computacional
 
 ### 1. Captura e Pré-processamento
